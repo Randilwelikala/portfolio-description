@@ -84,16 +84,16 @@ The portfolio website is fully developed and responsive.
 
 The source code is currently private and will be published upon hosting.
 
-Licensing decisions will be made at the time of deployment.
+
 
 Contact Information
 Feel free to reach out via:
 
-Email: your-email@example.com
+Email: randilgimantha646@gmail.com
 
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/randil-welikala-03336b249/
 
-GitHub: github.com/yourusername
+GitHub: https://github.com/Randilwelikala
 
 Disclaimer
 This README serves as a documentation for the portfolio website project. The site’s source code is not publicly available at this stage. Any licensing and distribution policies will be established when the site goes live.
