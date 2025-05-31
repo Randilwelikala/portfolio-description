@@ -1,6 +1,7 @@
 # Portfolio Website
 
-![](Images/portfolio.pnj)
+
+![portfolio](https://github.com/user-attachments/assets/5fbb5d77-3124-4ae2-912f-e9e7ed18077c)
 
 ## Overview
 
