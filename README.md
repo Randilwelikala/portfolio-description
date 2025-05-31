@@ -1,5 +1,7 @@
 # Portfolio Website
 
+![](Images/portfolio.pnj)
+
 ## Overview
 
 This project is a **personal portfolio website** designed to present my professional skills, projects, and contact information in a clean, modern, and responsive layout. The website serves as a digital résumé and a showcase for my development journey, allowing potential employers, clients, and collaborators to learn more about me and my work.
@@ -34,66 +36,31 @@ This project is a **personal portfolio website** designed to present my professi
 
 ---
 
-## Project Structure
+## Development Process
 
-```plaintext
-/
-├── index.html          # Main entry point for the website
-├── css/
-│   └── style.css       # Stylesheet defining all the design rules
-├── js/
-│   └── script.js       # JavaScript logic and interactivity
-├── images/             # Folder containing all images and icons used on the site
-└── assets/             # Additional resources such as fonts or documents
+- **Planning:** Defined website goals, target audience, and core sections to include.  
+- **Design:** Created wireframes and mockups to finalize the look and feel before coding.  
+- **Implementation:** Developed the site with clean, semantic code and followed responsive design principles.  
+- **Testing:** Ensured cross-browser compatibility and mobile responsiveness with thorough testing.  
+- **Iteration:** Improved UI/UX based on user feedback and testing results.
 
-Development Process
-Planning: Defined website goals, target audience, and core sections to include.
+---
 
-Design: Created wireframes and mockups to finalize the look and feel before coding.
+## User Experience
 
-Implementation: Developed the site with clean, semantic code and followed responsive design principles.
-
-Testing: Ensured cross-browser compatibility and mobile responsiveness with thorough testing.
-
-Iteration: Improved UI/UX based on user feedback and testing results.
-
-User Experience
 Visitors to the portfolio site will find a straightforward navigation system that guides them through my professional profile, with:
 
-An engaging introduction on the homepage.
+- An engaging introduction on the homepage.  
+- Detailed information about my skills and technologies I’m proficient in.  
+- A project showcase with brief descriptions and relevant links or images.  
+- A contact section with a functional form and social media icons for quick communication.
 
-Detailed information about my skills and technologies I’m proficient in.
+---
 
-A project showcase with brief descriptions and relevant links or images.
+## Future Enhancements
 
-A contact section with a functional form and social media icons for quick communication.
-
-Future Enhancements
-Add a blog section: To share insights, tutorials, and updates on my development journey.
-
-Integrate a backend: To handle contact form submissions more robustly and securely.
-
-Add animations and effects: Further enhance interactivity without compromising performance.
-
-SEO improvements: Optimize metadata and content for better search engine ranking.
-
-Multilingual support: Offer the site content in multiple languages for wider accessibility.
-
-Current Status
-The portfolio website is fully developed and responsive.
-
-The source code is currently private and will be published upon hosting.
-
-
-
-Contact Information
-Feel free to reach out via:
-
-Email: randilgimantha646@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/randil-welikala-03336b249/
-
-GitHub: https://github.com/Randilwelikala
-
-Disclaimer
-This README serves as a documentation for the portfolio website project. The site’s source code is not publicly available at this stage. Any licensing and distribution policies will be established when the site goes live.
+- **Add a blog section:** To share insights, tutorials, and updates on my development journey.  
+- **Integrate a backend:** To handle contact form submissions more robustly and securely.  
+- **Add animations and effects:** Further enhance interactivity without compromising performance.  
+- **SEO improvements:** Optimize metadata and content for better search engine ranking.  
+- **Multilingual support:** Offer the site content in multiple languages for wider accessibility.
